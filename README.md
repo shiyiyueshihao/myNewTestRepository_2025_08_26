@@ -31,7 +31,8 @@
 
   # 获取远程仓库代码
     git pull <远程主机名> <远程分支名>
-    
+<img width="1567" height="492" alt="image" src="https://github.com/user-attachments/assets/8ec754f9-08c8-4fbf-8a07-050798d2852d" />
+
   # 推送本地仓库代码到远程仓库
       git push <远程主机名> <本地分支名>:<远程分支名>
     
