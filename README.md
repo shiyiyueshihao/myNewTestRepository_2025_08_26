@@ -35,7 +35,10 @@
 
   # 推送本地仓库代码到远程仓库
       git push <远程主机名> <本地分支名>:<远程分支名>
-    
+<img width="866" height="286" alt="image" src="https://github.com/user-attachments/assets/677e73e4-6eab-4b03-9914-7f38483d6fa2" />
+(第一个问题出在  远程仓库修改了内容 而本地没有实时更新(git pull origin(myNewTest) main更新))
+(第二个问题出现在网络部分)
+
     如果本地分支名与远程分支名相同，则可以省略冒号：
       git push <远程主机名> <本地分支名> 
       git push origin master
