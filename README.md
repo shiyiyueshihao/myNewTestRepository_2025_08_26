@@ -9,7 +9,6 @@
   # 为本地添加远程仓库
     git remote add <shortname> <url>
     shortname:远程仓库的简称，自定义； url:远程仓库的地址
-  <img width="867" height="195" alt="image" src="https://github.com/user-attachments/assets/899b6ed1-d865-48cc-ad9f-617acf568256" />
 
       
     提示： 
@@ -17,7 +16,12 @@
  
   # 查看远程仓库    
     git remote
- 
+      有两种方式 
+      1. git remote
+        <img width="867" height="195" alt="image" src="https://github.com/user-attachments/assets/899b6ed1-d865-48cc-ad9f-617acf568256" />
+      2.打开初始化本地仓库地址的文件夹，然后找到.git 进入找到config  vscode打开即可
+        <img width="843" height="351" alt="image" src="https://github.com/user-attachments/assets/c2cd4a2e-9848-4dbe-84c8-858a5aa76458" />
+
   # 删除远程仓库 
     git remote rm 仓库名
     提示： 
