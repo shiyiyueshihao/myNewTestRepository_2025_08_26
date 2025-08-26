@@ -9,6 +9,8 @@
   # 为本地添加远程仓库
     git remote add <shortname> <url>
     shortname:远程仓库的简称，自定义； url:远程仓库的地址
+  <img width="867" height="195" alt="image" src="https://github.com/user-attachments/assets/899b6ed1-d865-48cc-ad9f-617acf568256" />
+
       
     提示： 
       .git/config文件中可以查看远程仓库的信息
