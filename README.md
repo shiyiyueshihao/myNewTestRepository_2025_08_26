@@ -27,7 +27,8 @@
     git remote rm 仓库名
     提示： 
       此操作是本地移除与远程仓库的关联，并不是将远程仓库从平台上删除。
-    
+<img width="876" height="313" alt="image" src="https://github.com/user-attachments/assets/fb580ec1-c2ac-47f7-8b2a-b7ecd533bb52" />
+
   # 获取远程仓库代码
     git pull <远程主机名> <远程分支名>
     
